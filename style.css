@@ -7,7 +7,7 @@ body {
 url(https://cdn.glitch.com/7928f65f-bc1b-48eb-b2c2-39741716e498%2Flofe-earth-cat.gif?v=1616571042074);
 
     color: slategrey; 
-
+  place-items: center;
 }
 
 h1 {
@@ -200,17 +200,12 @@ background:lightgreen
 
 }
 
-.troll{
-  background-repeat:no-repeat; 
-  background-size:auto;
-  height:100px;
-  width: auto;
 
-  background-attachment:fixed;
-  background-position:bottom;
+
+body {
+  font-family: sans-serif;
+  display: grid;
+  height: 10vh;
+  place-items: center;
 }
-.virus_prank:hover .troll{
-  background-image:
-    url("https://cdn.glitch.com/7928f65f-bc1b-48eb-b2c2-39741716e498%2FR698b36a596a2f75e7e6f9ce89389bc05.gif?v=1616579141167")
-} 
 
