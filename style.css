@@ -1,0 +1,216 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+  background-image: 
+url(https://cdn.glitch.com/7928f65f-bc1b-48eb-b2c2-39741716e498%2Flofe-earth-cat.gif?v=1616571042074);
+
+    color: slategrey; 
+
+}
+
+h1 {
+font-family: verdana, arial, sans-serif; 
+
+}
+
+button{
+padding: 10px;
+border-radius: 10px;
+
+}
+
+#gameButtonArea > button {
+  width:100px;
+  height:100px;
+  margin:2px;
+}
+
+
+
+.hidden {
+  display: none;
+}
+
+#button1:active {
+
+  background:green;
+}
+#button1:active, #button1.lit {
+
+background:lightgreen
+
+}
+#button2:active {
+    background:blue;
+}
+#button2:active, #button2.lit {
+    background: lightblue;
+}
+
+#button3:active {
+    background:yellow;
+}
+#button3:active, #button3.lit {
+    background: yellow;
+}
+#button4:active {
+    background:red;
+}
+#button4:active, #button4.lit {
+    background: pink;
+
+}
+
+
+
+
+#button5:active {
+    background:green;
+}
+#button5:active, #button5.lit {
+    background: lightgreen;
+
+}
+#button6:active {
+    background:blue;
+}
+#button6:active, #button6.lit {
+    background: lightblue;
+
+}
+#button7:active {
+    background:yellow;
+}
+#button7:active, #button7.lit {
+    background: yellow;
+
+}
+#button8:active {
+    background:red;
+}
+#button8:active, #button8.lit {
+    background: pink;
+
+}
+#button9:active {
+    background:green;
+}
+#button9:active, #button9.lit {
+    background: lightgreen;
+
+}
+#button10:active {
+    background:blue;
+}
+#button10:active, #button10.lit {
+    background: lightblue;
+
+}
+#button11:active {
+    background:yellow;
+}
+#button11:active, #button11.lit {
+    background: yellow;
+
+}
+#button12:active {
+    background:red;
+}
+#button12:active, #button12.lit {
+    background: pink;
+
+}
+#button13:active {
+    background:green;
+}
+#button13:active, #button13.lit {
+    background: lightgreen;
+
+}
+#button14:active {
+    background:blue;
+}
+#button14:active, #button14.lit {
+    background: lightblue;
+
+}
+#button15:active {
+    background:yellow;
+}
+#button15:active, #button15.lit {
+    background: yellow;
+
+}
+#button16:active {
+    background:red;
+}
+#button16:active, #button16.lit {
+    background: pink;
+
+}
+#button17:active {
+    background:green;
+}
+#button17:active, #button17.lit {
+    background: lightgreen;
+
+}
+#button18:active {
+    background:blue;
+}
+#button18:active, #button18.lit {
+    background: lightblue;
+
+}
+#button19:active {
+    background:yellow;
+}
+#button19:active, #button19.lit {
+    background: yellow;
+
+}
+#button20:active {
+    background:red;
+}
+#button20:active, #button20.lit {
+    background: pink;
+
+}
+#button21:active {
+    background:green;
+}
+#button21:active, #button21.lit {
+    background: lightgreen;
+
+}
+#button22:active {
+    background:blue;
+}
+#button22:active, #button22.lit {
+    background: lightblue;
+
+}
+#button23:active {
+    background:yellow;
+}
+#button23:active, #button23.lit {
+    background: yellow;
+
+}
+
+.troll{
+  background-repeat:no-repeat; 
+  background-size:auto;
+  height:100px;
+  width: auto;
+
+  background-attachment:fixed;
+  background-position:bottom;
+}
+.virus_prank:hover .troll{
+  background-image:
+    url("https://cdn.glitch.com/7928f65f-bc1b-48eb-b2c2-39741716e498%2FR698b36a596a2f75e7e6f9ce89389bc05.gif?v=1616579141167")
+} 
+
