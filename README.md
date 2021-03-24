@@ -3,8 +3,9 @@
 ![Megalovania_colorgame](https://user-images.githubusercontent.com/43308680/112293682-a09ed180-8c4f-11eb-9dd7-15d08df1da80.gif)
 SITE Pre-Work Submission
 
-[![ColorGameX](https://th.bing.com/th/id/R6b0d70b37c60d3f85c625d60907bf8ad?rik=9dhc0PaFIqgCIQ&riu=http%3a%2f%2fwww.wilsoninfo.com%2fbuttons%2fclick-here-blue-glass-animated.gif&ehk=0pUp2Nlndm3ZEblnHU5GQpHHJgMl%2fOL0DOXS8Al8ym8%3d&risl=&pid=ImgRaw)](https://www.youtube.com/embed/GXZgGoj0264?controls=0?autoplay=1 "Youtube Video preview with sound! Please check this out over gif")
-Name: [Italo Pennella]
+
+
+Name: [Italo Pennella][![ColorGameX](https://th.bing.com/th/id/R6b0d70b37c60d3f85c625d60907bf8ad?rik=9dhc0PaFIqgCIQ&riu=http%3a%2f%2fwww.wilsoninfo.com%2fbuttons%2fclick-here-blue-glass-animated.gif&ehk=0pUp2Nlndm3ZEblnHU5GQpHHJgMl%2fOL0DOXS8Al8ym8%3d&risl=&pid=ImgRaw)](https://www.youtube.com/embed/GXZgGoj0264?controls=0?autoplay=1 "Youtube Video preview with sound! Please check this out over gif")
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
@@ -23,4 +24,5 @@ Name: [Italo Pennella]
 [If I had more time to work on this I would probably change the formatting of the website from more of a musical meme webpage to something a little more challenging and engaging for users. Maybe incorporating a prize after winning levels of the game as it gets progressively harder. Each round would award part of a base64 key which could be decrypted and used to access a link to the hall of fame webpage where they can insert their name for recognition. Something like this would be what I would have in mind for my prework if I had less school work and more time to pour into HTML and Javascript. Maybe I should try it later in the year just for the fun of it.]
 
 Project:https://color-memorygame.glitch.me/
+
 Features:Randomized Game, Unique Layout, Piano Key soundboard
