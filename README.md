@@ -22,7 +22,7 @@
 
 **4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)**
 
-[If I had more time to work on this I would probably change the formatting of the website from more of a musical meme webpage to something a little more challenging and engaging for users. Maybe incorporating a prize after winning levels of the game as it gets progressively harder. Each round would award part of a base64 key which could be decrypted and used to access a link to the hall of fame webpage where they can insert their name for recognition. Something like this would be what I would have in mind for my prework if I had less school work and more time to pour into HTML and Javascript. Maybe I should try it later in the year just for the fun of it.]
+[If I had more time to work on this I would probably change the formatting of the website from more of a musical meme webpage to something a little more challenging and engaging for users. One thing I definitley would do would be to add a second song when you lose rather the same for wiining/losing. I could also maybe incorporate a prize after winning levels of the game as it gets progressively harder. Each round would award part of a base64 key which could be decrypted and used to access a link to the hall of fame webpage where they can insert their name for recognition. Something like this would be what I would have in mind for my prework if I had less school work and more time to pour into HTML and Javascript. Maybe I should try it later in the year just for the fun of it.]
 
 **Project:** *https://color-memorygame.glitch.me/*
 
