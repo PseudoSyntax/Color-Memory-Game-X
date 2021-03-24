@@ -28,6 +28,9 @@ var guessCounter = 0;
 console.log("The Game has Started!");
 console.log("Play single clue: 2 in 1000ms");
 
+function RandomInt(max) {
+  return Math.floor(Math.random() * Math.floor(max));
+}
 
 function startGame(){
     //initialize game variables
