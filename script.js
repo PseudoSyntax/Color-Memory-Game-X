@@ -8,6 +8,8 @@ const clueHoldTime2 = 50 //how long to hold each clue's light/sound
 const cluePauseTime2 =90; //how long to pause in between clues
 const nextClueWaitTime2 = 60; //how long to wait before starting playback of the clue sequence
 
+let lives=6;//three strikes
+
 //Global Variables
 var pattern = [1, 2,RandomInt(20),4,RandomInt(20),RandomInt(20)];
 var melody1 = [0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,  0, 0,14, 0,15, 0, 0,16,0,17,0,18,0,13,18,17];
@@ -36,6 +38,7 @@ function startGame(){
     //initialize game variables
     progress = 0;
     gamePlaying = true;
+    lives=6
 // swap the Start and Stop buttons
 document.getElementById("startBtn").classList.add("hidden");
 document.getElementById("stopBtn").classList.remove("hidden");
@@ -240,11 +243,11 @@ function playClueSequence(){
 }
 function guess(btn){//function "guess" manages main game logic componets
   console.log("user guessed: " + btn);
-
   if(!gamePlaying){
     return;
   }
 if (pattern[guessCounter] == btn) {
+  
     if(guessCounter == progress){
         if(progress == pattern.length - 1){
                 winGame();
@@ -255,8 +258,16 @@ if (pattern[guessCounter] == btn) {
     }else{
       guessCounter++;//increment guessCounter
     }
+
 }else{
+  lives--
+  if (lives > 0){
+  lives--;
+  }
+  else{
   loseGame();//upon incorrect guess loseGame()
+  }
+    playClueSequence()
 }
 
 }//end of function guess  
