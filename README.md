@@ -25,4 +25,4 @@ Name: [Italo Pennella]  [![ColorGameX](https://th.bing.com/th/id/R6b0d70b37c60d3
 
 Project:https://color-memorygame.glitch.me/
 
-Features:Randomized Game, Unique Layout, Piano Key soundboard
+Features:Randomized Game Pattern, Unique Layout, Piano Key soundboard(undertale),hidden image
