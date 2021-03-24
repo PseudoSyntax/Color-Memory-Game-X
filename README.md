@@ -1,4 +1,4 @@
-![Megalovania_colorgame](https://user-images.githubusercontent.com/43308680/112293682-a09ed180-8c4f-11eb-9dd7-15d08df1da80.gif)
+![Megalovania_colorgame](https://cdn.glitch.com/7928f65f-bc1b-48eb-b2c2-39741716e498%2FMegalovania_colorgameX.gif?v=1616614104798)
 SITE Pre-Work Submission
 
 
