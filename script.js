@@ -9,7 +9,7 @@ const cluePauseTime2 =90; //how long to pause in between clues
 const nextClueWaitTime2 = 60; //how long to wait before starting playback of the clue sequence
 
 //Global Variables
-var pattern = [1, 2, 3, 4, 5, 6, 5, 4];
+var pattern = [1, 2,RandomInt(20),4,RandomInt(20),8,RandomInt(20)];
 var melody1 = [0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,  0, 0,14, 0,15, 0, 0,16,0,17,0,18,0,13,18,17];
 var melody2 = [0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,  1, 1, 0, 0,19,0 ,0 ,20,0 ,22,0 ,23,0 ,1 ,23,22];//18rest G5
 var melody3 = [1 ,0 ,2 ,0 ,0 ,3 ,0 ,4 ,0 ,5 ,0 ,6 ,5 ,4 ,21,21,1 ,0 ,2 ,0 ,0 ,3 ,0 ,4 ,0 ,5 ,0 ,6 ,5 ,4 ,    
