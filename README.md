@@ -1,5 +1,5 @@
 
-[![ColorGameX](https://th.bing.com/th/id/Rbb613f83867ffe5d3485423176c09f4d?rik=WisqVQ7WMrUWNw&riu=http%3a%2f%2fwww.transparentpng.com%2fthumb%2fclick-here-button%2fHTbxoH-click-here-button-picture.png&ehk=m28qYypw49lxEvTXmKusz7goia%2ftTmMI%2boYG2ADFcDQ%3d&risl=&pid=ImgRaw)](https://www.youtube.com/embed/GXZgGoj0264?controls=0?autoplay=1 "Enjoy!")
+[![ColorGameX](https://th.bing.com/th/id/R6b0d70b37c60d3f85c625d60907bf8ad?rik=9dhc0PaFIqgCIQ&riu=http%3a%2f%2fwww.wilsoninfo.com%2fbuttons%2fclick-here-blue-glass-animated.gif&ehk=0pUp2Nlndm3ZEblnHU5GQpHHJgMl%2fOL0DOXS8Al8ym8%3d&risl=&pid=ImgRaw)](https://www.youtube.com/embed/GXZgGoj0264?controls=0?autoplay=1 "Youtube Video preview with sound! Please check this out over gif")
 
 ![Megalovania_colorgame](https://user-images.githubusercontent.com/43308680/112293682-a09ed180-8c4f-11eb-9dd7-15d08df1da80.gif)
 SITE Pre-Work Submission
