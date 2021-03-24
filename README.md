@@ -26,4 +26,4 @@ YOUTUBE Preview-->[![ColorGameX](https://th.bing.com/th/id/R6b0d70b37c60d3f85c62
 
 Project:https://color-memorygame.glitch.me/
 
-Features:Randomized Game Pattern, Unique Layout, Piano Key soundboard(undertale),hidden image
+Features:Randomized Game Pattern,3 game lives, Unique Layout, Piano Key soundboard(undertale),hidden prank image
