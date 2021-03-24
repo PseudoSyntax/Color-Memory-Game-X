@@ -1,7 +1,7 @@
 ![github_colorgameX](https://user-images.githubusercontent.com/43308680/112372331-e59d2500-8c9c-11eb-9006-3ed97c071e79.gif)
 
 
-SITE Pre-Work Submission
+###SITE Pre-Work Submission
 
 
 
@@ -26,4 +26,4 @@ SITE Pre-Work Submission
 
 **Project: *https://color-memorygame.glitch.me/*
 
-**Features:** Randomized Game Pattern,3 game lives, Unique Layout, Piano Key soundboard(undertale),hidden prank image
+##**Features:** Randomized Game Pattern,3 game lives, Unique Layout, Piano Key soundboard(undertale),hidden prank image
