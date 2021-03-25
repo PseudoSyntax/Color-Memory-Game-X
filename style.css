@@ -200,7 +200,13 @@ background:lightgreen
 
 }
 
+#button0:active {
+    background:white
+}
+#button0:active, #button0.lit {
+    background: white;
 
+}
 
 body {
   font-family: sans-serif;

@@ -8,7 +8,7 @@ const clueHoldTime2 = 50 //how long to hold each clue's light/sound
 const cluePauseTime2 =90; //how long to pause in between clues
 const nextClueWaitTime2 = 60; //how long to wait before starting playback of the clue sequence
 
-let lives=6;//three strikes
+let lives=3;//three strikes
 
 //Global Variables
 var pattern = [1, 2,RandomInt(20),4,RandomInt(20),RandomInt(20)];
@@ -261,7 +261,7 @@ if (pattern[guessCounter] == btn) {
 
 }else{
   lives--
-  if (lives > 0){
+  if (lives >= 0){
   lives--;
   }
   else{
@@ -274,11 +274,11 @@ if (pattern[guessCounter] == btn) {
 
 function loseGame(){
   stopGame();
-  alert("Game Over. You lost. CLICK OK TO HEAR SOLUTION!");
+  alert("Only cats have 9 lives unfortunately you don't. CLICK OK TO HEAR BONGO CAT JAM OUT!");
     resumeGame();
 }
 function winGame(){
   stopGame();
-  alert("Game Over. You won!");
+  alert("You won! CLICK OK TO HEAR BONGO CAT JAM OUT!");
   resumeGame();
 }
