@@ -274,11 +274,11 @@ if (pattern[guessCounter] == btn) {
 
 function loseGame(){
   stopGame();
-  alert("Game Over. You lost. CLICK OK TO HEAR SOLUTION!");
+  alert("Only cats have 9 lives unfortunately you only have 3. CLICK OK TO HEAR BONGO CAT JAM OUT!");
     resumeGame();
 }
 function winGame(){
   stopGame();
-  alert("Game Over. You won!");
+  alert("You won! CLICK OK TO HEAR BONGO CAT JAM OUT!");
   resumeGame();
 }
