@@ -28,5 +28,5 @@
 **Project:** *https://color-memorygame.glitch.me/*
 
 
-![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoSyntax&theme=blue-green)
 
