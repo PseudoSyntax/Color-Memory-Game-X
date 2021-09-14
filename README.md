@@ -5,7 +5,7 @@
 
 ### **Features:** Randomized game pattern, More buttons, Game lives, Unique layout, Piano key soundboard(undertale)
 
-**Name:** [Italo Pennella]  
+**Name:** [REDACTED]  
 **Project:** *https://color-memorygame.glitch.me/*
 **YOUTUBE Preview-->**[![ColorGameX](https://th.bing.com/th/id/R6b0d70b37c60d3f85c625d60907bf8ad?rik=9dhc0PaFIqgCIQ&riu=http%3a%2f%2fwww.wilsoninfo.com%2fbuttons%2fclick-here-blue-glass-animated.gif&ehk=0pUp2Nlndm3ZEblnHU5GQpHHJgMl%2fOL0DOXS8Al8ym8%3d&risl=&pid=ImgRaw)](https://www.youtube.com/embed/GXZgGoj0264?controls=0?autoplay=1 "Youtube video preview with sound! Please check this out over gif")
 
